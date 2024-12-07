@@ -1,0 +1,32 @@
+{
+    "flights": [
+      {
+        "id": 1,
+        "flightNumber": "AI101",
+        "departure": "New York",
+        "destination": "London",
+        "status": "On Time"
+      },
+      {
+        "id": 2,
+        "flightNumber": "BA205",
+        "departure": "London",
+        "destination": "Paris",
+        "status": "Delayed"
+      }
+    ],
+    "passengers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "flightNumber": "AI101",
+        "seat": "12A"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "flightNumber": "BA205",
+        "seat": "14C"
+      }
+    ]
+  }  
